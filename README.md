@@ -4,7 +4,7 @@ Prerequisite: wiringPi.h
 
 First of all, find out which wPi is pin Number.
 ```
-$ sudo gpio readall
+sudo gpio readall
 ```
 Then, you can get information on wPi (Pin number).
 
@@ -14,14 +14,22 @@ In the interrupt_test.cpp, you can read the rotary encoder value.
 
 Add executables by following procedure.
 ```
-encoder_practice $ mkdir build
+mkdir build
+```
 
-encoder_practice $ cd build
+```
+cd build
+```
 
-encoder_practice/build $ cmake ..
+```
+cmake ..
+```
 
-encoder_practice/build $ make
+```
+make
+```
 
-encoder_practice/build $ sudo ./interrupt_test
+```
+sudo ./interrupt_test
 ```
 You can read encoder position data.
