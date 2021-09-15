@@ -23,3 +23,5 @@ encoder_practice/build $ cmake ..
 encoder_practice/build $ make
 
 encoder_practice/build $ sudo ./interrupt_test
+
+You can read encoder position data.
