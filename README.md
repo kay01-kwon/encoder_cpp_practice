@@ -13,22 +13,28 @@ Then, you can get information on wPi (Pin number).
 In the interrupt_test.cpp, you can read the rotary encoder value.
 
 Add executables by following procedure.
+
+Make build directory.
 ```
 mkdir build
 ```
 
+Navigate to build directory.
 ```
 cd build
 ```
 
+Cmake.
 ```
 cmake ..
 ```
 
+Compile and build to convert the cpp code into executables.
 ```
 make
 ```
 
+Execute the code.
 ```
 sudo ./interrupt_test
 ```
