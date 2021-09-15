@@ -3,9 +3,9 @@
 Prerequisite: wiringPi.h
 
 First of all, find out which wPi is pin Number.
-'''
+```
 $ sudo gpio readall
-'''
+```
 Then, you can get information on wPi (Pin number).
 
 <img src="/picture/gpio_readall.png">
