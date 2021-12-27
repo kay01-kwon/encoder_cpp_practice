@@ -1,0 +1,7 @@
+/home/mavros/Documents/encoder_practice/build/CMakeFiles/rebuild_cache.dir
+/home/mavros/Documents/encoder_practice/build/CMakeFiles/edit_cache.dir
+/home/mavros/Documents/encoder_practice/build/CMakeFiles/encoder_practice.dir
+/home/mavros/Documents/encoder_practice/build/CMakeFiles/pwm_test.dir
+/home/mavros/Documents/encoder_practice/build/CMakeFiles/interrupt_test.dir
+/home/mavros/Documents/encoder_practice/build/CMakeFiles/digitalpin_read.dir
+/home/mavros/Documents/encoder_practice/build/CMakeFiles/led_test.dir
