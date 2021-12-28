@@ -4,6 +4,9 @@
 #define pinA 0  //Physical 11
 #define pinB 2  //Physical 13
 
+#define pinC 15 //Physical 8
+#define pinD 16 //Physical 10
+
 using std::cout;
 using std::endl;
 
